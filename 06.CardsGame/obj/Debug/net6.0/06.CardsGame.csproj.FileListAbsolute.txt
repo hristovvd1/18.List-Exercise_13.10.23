@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\bin\Debug\net6.0\06.CardsGame.exe
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\bin\Debug\net6.0\06.CardsGame.deps.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\bin\Debug\net6.0\06.CardsGame.runtimeconfig.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\bin\Debug\net6.0\06.CardsGame.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\bin\Debug\net6.0\06.CardsGame.pdb
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfo.cs
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.sourcelink.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\refint\06.CardsGame.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.pdb
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\06.CardsGame.genruntimeconfig.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\06.CardsGame\obj\Debug\net6.0\ref\06.CardsGame.dll
