@@ -1,0 +1,15 @@
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.AssemblyInfo.cs
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.sourcelink.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\bin\Debug\net6.0\02.ChangeList.exe
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\bin\Debug\net6.0\02.ChangeList.deps.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\bin\Debug\net6.0\02.ChangeList.runtimeconfig.json
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\bin\Debug\net6.0\02.ChangeList.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\bin\Debug\net6.0\02.ChangeList.pdb
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\refint\02.ChangeList.dll
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.pdb
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\02.ChangeList.genruntimeconfig.cache
+C:\Users\hrist\source\repos\18.List-Exercise_13.10.23\02.ChangeList\obj\Debug\net6.0\ref\02.ChangeList.dll
